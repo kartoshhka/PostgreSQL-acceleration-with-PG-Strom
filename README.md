@@ -6,7 +6,7 @@
 
 **Database for testing:**
 
-https://transfer.sh/B0uxI/testdb.sql
+https://transfer.sh/FmZ79/testdb.sql
 
 
 [Original repo](https://github.com/redhat-performance/openshift-psap/tree/master/blog/gpu/pg-strom)
