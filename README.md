@@ -6,7 +6,7 @@
 
 **Database for testing:**
 
-https://transfer.sh/FmZ79/testdb.sql
+https://raw.githubusercontent.com/kartoshhka/PostgreSQL-acceleration-with-PG-Strom/master/testdb.sql
 
 
 [Original repo](https://github.com/redhat-performance/openshift-psap/tree/master/blog/gpu/pg-strom)
